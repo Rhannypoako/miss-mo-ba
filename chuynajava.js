@@ -14,7 +14,7 @@
     const message =
       choice === "SOBRA" ? "MISS KANA DAW" : "kawawa hindi kana love";
 
-    await fetch("https://script.google.com/macros/s/AKfycbz0dlvXQfoum7GzphsMhTf_eO5J9PRennu3AfsKrWtyWHqfGPCw5ze0NHR0zSJL9fze/exec", {
+    await fetch("https://script.google.com/macros/s/AKfycbxz7_FQ9kmQevthVhEIB4dmv1DbeaAA5qN9D0eKOePF6rKCWTXpUaXjR5o1_azXcoSv/exec", {
       method: "POST",
       mode: "no-cors",
       headers: {
